@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ghl-springmvc Maven Webapp"
+  id="myeclipse.1440643713227"
+  context-root="/ghl-springmvc"
+  j2ee-spec="6.0"
+  archive="ghl-springmvc Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
